@@ -1,0 +1,1 @@
+bash finetune/finetune_qlora_single_gpu.sh -m /home/wtadmin/.cache/modelscope/hub/qwen/Qwen-1_8B-Chat-Int4 -d /home/wtadmin/qwen/qwen-sft/train.txt
